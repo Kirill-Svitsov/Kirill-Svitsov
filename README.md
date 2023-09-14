@@ -1,19 +1,19 @@
 
-# Привет, меня зовут Kirill!
+# Hello, my name is Kirill!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
+I am a Python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT started back in 2020 during the COVID-19 pandemic. At that time, I actively engaged in self-learning through YouTube courses related to HTML and CSS. After completing these courses, I became interested in delving into the server-side of web applications, and I chose Python as my primary language. My choice of Python was influenced not only by its elegance and ease of learning but also by the potential it offers in various programming domains. Above all, Python is a language that is easily readable and understandable. Its clean and straightforward syntax allows developers to focus on problem-solving rather than struggling with complex code. This is particularly crucial in the development context, where code clarity is the key to a successful project. I also went through courses on YouTube resources covering backend development and algorithms. However, I realized the need for a structured learning environment, with projects and reviews, which led me to choose Yandex.Practicum as a platform for furthering my web development studies.
 
-- :seedling: Завершил курс Python developer Яндекс.Практикум!
+- :seedling: Completed the Python Developer course at Yandex.Practicum!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-svitsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svicovkirill@gmail.com) [![Linked IN Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linked&logoColor=white)](mailto:https://www.linkedin.com/in/kirill-svitsov/)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-svitsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svicovkirill@gmail.com) [![Linked IN Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linked&logoColor=white)](mailto:https://www.linkedin.com/in/kirill-svitsov/)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/kirill-svitsov/" target="_blank">
@@ -26,7 +26,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -43,41 +43,27 @@
 
 ---
 
-### 🛠 Инструменты:
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-</div>
 
----
+<!-- ### 💻 Completed Courses:
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| Курсы                                                             | Дата              |
+| ----------------------------------------------------------------  | :---------------: |
+| https://www.youtube.com/@selfedu_rus/Good, Good Python            | 11/2022 - 01/2023 |
+| https://www.youtube.com/@selfedu_rus/OOP                          | 01/2023 - 02/2023 |
+| https://www.youtube.com/@selfedu_rus/Django Rest Framework        | 02/2023 - 03/2023 |
+| https://www.youtube.com/@selfedu_rus/Django 3                     | 02/2023 - 03/2023 |
+| https://www.youtube.com/@selfedu_rus/Jinja2                       | 02/2023 - 03/2023 |
+| https://www.youtube.com/@tkhirianov/Algorithms and Data Structures| 01/2023 - 04/2023 |
+| https://practicum.yandex.ru/Python developer                      | 11/2022 - 10/2023 |
 
 --- -->
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/Kirill-Svitsov/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistic:
 
 <table>
   <tr>
