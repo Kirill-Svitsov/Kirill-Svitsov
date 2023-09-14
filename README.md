@@ -11,11 +11,9 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
-
 - :seedling: Завершил курс Python developer Яндекс.Практикум!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-svitsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svicovkirill@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-svitsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svicovkirill@gmail.com)[![Linked IN Badge](https://img.shields.io/badge/-Linked-red?style=flat&logo=Linked&logoColor=white)](mailto:https://www.linkedin.com/in/kirill-svitsov/)
 
 ---
 
