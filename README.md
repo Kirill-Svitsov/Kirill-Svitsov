@@ -10,6 +10,7 @@ I am a Python backend developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Completed the Python Developer course at Yandex.Practicum!
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-svitsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svicovkirill@gmail.com) [![Linked IN Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linked&logoColor=white)](mailto:https://www.linkedin.com/in/kirill-svitsov/)
+- Pet project: [![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-Kirill--Svitsov-yellow)](https://kirillsvitsov2.pythonanywhere.com/)
 
 ---
 
