@@ -1,80 +1,86 @@
+# Кирилл Свицов
+## Python Backend Developer
 
-# Hello, my name is Kirill!
+Санкт-Петербург, РФ
 
----
-
-### :man_technologist: About me:
-
-I am a Python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT started back in 2020 during the COVID-19 pandemic. At that time, I actively engaged in self-learning through YouTube courses related to HTML and CSS. After completing these courses, I became interested in delving into the server-side of web applications, and I chose Python as my primary language. My choice of Python was influenced not only by its elegance and ease of learning but also by the potential it offers in various programming domains. Above all, Python is a language that is easily readable and understandable. Its clean and straightforward syntax allows developers to focus on problem-solving rather than struggling with complex code. This is particularly crucial in the development context, where code clarity is the key to a successful project.
-
-- :seedling: Completed the Python Developer course at Yandex.Practicum!
-
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-svitsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/svitsov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svicovkirill@gmail.com) [![Linked IN Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linked&logoColor=white)](mailto:https://www.linkedin.com/in/kirill-svitsov/)
-- Pet project: [![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-Kirill--Svitsov-yellow)](https://kirillsvitsov2.pythonanywhere.com/)
+[![Telegram](https://img.shields.io/badge/@svitsov-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/svitsov)
+[![Email](https://img.shields.io/badge/svicovkirill@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svicovkirill@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-svitsov/)
 
 ---
 
-### 🤝 Social networks:
+### Обо мне
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kirill-svitsov/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://vk.com/id159844725" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+> Создаю масштабируемый бэкенд: от монолитов до микросервисов, от real-time до highload
+
+- **Опыт:** 3+ года коммерческой разработки на Python
+- **Специализация:** монолиты (Django/DRF), асинхронная архитектура (FastAPI), микросервисы, AI-интеграции
+- **Подход:** чистый код, тесты, CI/CD, понимание бизнеса — до IT был коммерческим директором направления в строительной компании
 
 ---
 
-### 💻 Technology:
+### Ключевые проекты
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-</div>
+**Dating-платформа** (Souldev)  
+*FastAPI, SQLAlchemy 2.0, WebSockets, Celery, LLM, PostgreSQL*  
+Архитектура и реализация асинхронного бэкенда: real-time чат, AI-скоринг мэтчей, платёжный модуль
+
+**E-commerce платформа (премиальная мебель)** (Souldev)  
+*Django Rest Framework, Celery, Stripe, Robokassa, PostgreSQL, Docker*  
+Интернет-магазин с нуля: два платёжных шлюза, обработка вебхуков, фоновые задачи
+
+**RetailRotor** (ТП Лаб)  
+*Django, ClickHouse, asyncio, RabbitMQ*  
+Вёл проект как основной разработчик: аналитика телеметрии с тысяч экранов (+ ClickHouse), асинхронная обработка миллионов ценников, self-service система, рефакторинг, тесты.
+
+**Grand Bazar** (Cyberforms)  
+*Django, Celery, RabbitMQ, Docker*  
+Система скоринга с асинхронной валидацией данных из внешних API
+
+**Koleso (интернет-магазин шин)** (Cyberforms)  
+*Django, Redis, Celery, Docker, RabbitMQ*  
+Интеграция внешних API для синхронизации цен и остатков миллионов товаров
+
+**KnotInspector** (ТП Лаб)  
+*FastAPI, ClickHouse, SQLAlchemy*  
+API для мониторинга сканера пиломатериалов в реальном времени
+
+**Telegram-бот с AI-аналитикой** (Souldev)  
+*aiogram, OpenAI API, PostgreSQL, Stripe, Redis*  
+Production-бот с paywall и мультимодальными запросами к LLM
 
 ---
 
+### Стек технологий
 
+| Категория                | Технологии                                                              |
+|--------------------------|-------------------------------------------------------------------------|
+| **Языки**                | Python, Go, SQL                                                         |
+| **Фреймворки**           | FastAPI, Django, DRF, aiogram, SQLAlchemy, Pydantic v2                  |
+| **Базы данных**          | PostgreSQL, ClickHouse, Redis                                           |
+| **Асинхронность**        | asyncio, aiohttp, Celery, WebSockets                                    |
+| **Монолиты / Микросервисы** | Django-монолиты, микросервисная архитектура, Docker Compose          |
+| **Инфраструктура**       | Docker, Docker Compose, Nginx, CI/CD                                    |
+| **Очереди**              | RabbitMQ, Kafka, Redis Streams                                          |
+| **Тестирование**         | pytest, unittest, интеграционные тесты                                  |
 
-<!-- ### 💻 Completed Courses:
+---
 
-| Курсы                                                             | Дата              |
-| ----------------------------------------------------------------  | :---------------: |
-| https://www.youtube.com/@selfedu_rus/Good, Good Python            | 11/2022 - 01/2023 |
-| https://www.youtube.com/@selfedu_rus/OOP                          | 01/2023 - 02/2023 |
-| https://www.youtube.com/@selfedu_rus/Django Rest Framework        | 02/2023 - 03/2023 |
-| https://www.youtube.com/@selfedu_rus/Django 3                     | 02/2023 - 03/2023 |
-| https://www.youtube.com/@selfedu_rus/Jinja2                       | 02/2023 - 03/2023 |
-| https://www.youtube.com/@tkhirianov/Algorithms and Data Structures| 01/2023 - 04/2023 |
-| https://practicum.yandex.ru/Python developer                      | 11/2022 - 10/2023 |
+### Статистика
 
---- -->
+![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Kirill-Svitsov&theme=dark&background=000000)
 
-### 💻 Codewars:
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirill-Svitsov&layout=compact&theme=vision-friendly-dark)
 
-![codewars](https://www.codewars.com/users/Kirill-Svitsov/badges/large)
+![Codewars](https://www.codewars.com/users/Kirill-Svitsov/badges/large)
 
-### ⚙️ GitHub statistic:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kirill-Svitsov)
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Kirill-Svitsov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirill-Svitsov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kirill-Svitsov)
+### Личное
+
+- **Спорт:** футбол, бокс, мечтаю взять Roland Garros
+- **Кино:** Тарантино, триллеры, всё с Томом Хэнксом
+- **Путешествия:** почти год прожил в Португалии, люблю открывать новое
+- **Принцип:** код должен решать бизнес-задачу, а не быть красивым ради красоты
